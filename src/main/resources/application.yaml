@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    gcp:
+      project-id: <YOUR_PROJECT_ID>
+      credentials:
+        encoded-key: <YOUR_ENCODED_KEY>
